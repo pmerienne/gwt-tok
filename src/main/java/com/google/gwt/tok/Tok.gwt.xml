@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<!-- Tok box javascript API -->
+	<!-- TODO : use the production script in production mode -->
+	<script src="http://staging.tokbox.com/v0.91/js/TB.min.js" />
+
+	<source path='client' />
+</module>
